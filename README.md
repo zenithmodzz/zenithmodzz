@@ -27,7 +27,7 @@
 
 <br>
 
-<h2>💻 My Stack</h2>
+<h2>languages</h2>
 
 <table>
   <tr>
