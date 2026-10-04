@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zenith202">
-    <img src="https://img.shields.io/badge/GitHub-Zenith202-181717?style=for-the-badge&logo=github">
+  <a href="https://github.com/zenithmodzz">
+    <img src="https://img.shields.io/badge/GitHub-zenithmodzz-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -21,13 +21,13 @@
 <ul>
   <li>Gorilla Tag modder</li>
   <li>Gorilla Tag copy modder</li>
-  <li> C# is my best coding language</li>
-  <li>my best friend is silent`</li>
+  <li>C# is my best coding language</li>
+  <li>my best friend is silent</li>
 </ul>
 
 <br>
 
-<h2>languages</h2>
+<h2>Languages</h2>
 
 <table>
   <tr>
@@ -42,24 +42,24 @@
   </tr>
   <tr>
     <td><b>TypeScript</b></td>
-    <td>★</td>
+    <td>★☆☆☆☆</td>
     <td>Trash</td>
   </tr>
   <tr>
     <td><b>JavaScript</b></td>
-    <td>★</td>
+    <td>★☆☆☆☆</td>
     <td>Trash</td>
   </tr>
   <tr>
     <td><b>Unity</b></td>
-    <td>★</td>
-    <td>trash</td>
+    <td>★☆☆☆☆</td>
+    <td>Trash</td>
   </tr>
 </table>
 
 <br>
 
-<h2>stuff i made</h2>
+<h2>Stuff I Made</h2>
 
 <table>
   <tr>
@@ -68,13 +68,13 @@
   </tr>
   <tr>
     <td><b>PhotonBot.dll</b></td>
-    <td>Photon bots dll made inside a lemonloader reference thing dynamic link library</td>
+    <td>Photon bots DLL made inside a LemonLoader reference thing</td>
   </tr>
 </table>
 
 <br>
 
-<h2>Random stuff</h2>
+<h2>Random Stuff</h2>
 
 <blockquote>
   <b>4 years</b> in the modding community.<br>
